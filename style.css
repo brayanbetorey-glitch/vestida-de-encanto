@@ -1,7 +1,6 @@
-* {
+/* v2 */ * {
   box-sizing: border-box;
 }
-
 :root {
   --bg-1: #fff7f8;
   --bg-2: #ffffff;
